@@ -25,9 +25,13 @@ Excute this program using WSL
 
 # REQUIRMENT
 - Run using SUDO
+- pip3 install -r requirements.txt
 - Run using Administration
-- pip3 install -r requirement
+- pip install -r requirements.txt
 
 ## The OUTPUT of the PROGRAM
 
 ![Screenshot](./Output.JPG)
+
+## Demo
+
