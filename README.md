@@ -1,4 +1,4 @@
-# Sniffer-Tool
+# Wireshark-Lite
 Sniffer Using Python! 
 
 # HOW TO RUN?
