@@ -24,9 +24,9 @@ Excute this program using WSL
 >sudo python3 sniffer.py "[8.8.8.8] IpAddr" <br/>
 
 # REQUIRMENT
-- Run using SUDO
+- Run using SUDO privilege
 - pip3 install -r requirements.txt
-- Run using Administration
+- Run using Administration privilege
 - pip install -r requirements.txt
 
 ## The OUTPUT of the PROGRAM
