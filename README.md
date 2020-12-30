@@ -12,18 +12,22 @@ Excute this program using WSL
 - open WSL Terminal
 - navigate to  file path
 - type the following command
->python sniffer.py "DOMAIN NAME" <br/>
->python sniffer.py "IpAddr" <br/>
+>python sniffer.py "[www.github.com] Domain Name" <br/>
+>python sniffer.py "[8.8.8.8] IpAddr" <br/>
 -----------------------------------
 #         L I N U X
 -----------------------------------
 - open terminal
 - navigate to file path
 - type the following command
->sudo python3 sniffer.py "DOMAIN NAME" <br/>
->sudo python3 sniffer.py "IpAddr" <br/>
+>sudo python3 sniffer.py "[www.github.com] Domain Name" <br/>
+>sudo python3 sniffer.py "[8.8.8.8] IpAddr" <br/>
 
 # REQUIRMENT
 -Run using SUDO
 -Run using Administration
 -pip3 install -r requirement
+
+## The OUTPUT of the PROGRAM
+
+![Screenshot](./Output.JPG)
