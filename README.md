@@ -1,7 +1,8 @@
 # Wireshark-Lite
 Sniffer Using Python! 
 
-# HOW TO RUN?
+# Whats The Use?
+    Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
     I have tested this program on Windows 10 Enterprise using WSL ver 2 .
     
 # USAGE 
