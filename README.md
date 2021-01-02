@@ -3,9 +3,16 @@ Sniffer Using Python!
 
 # Whats The Use?
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
-    I have tested this program on Windows 10 Enterprise using WSL ver 2 .
     
 # USAGE 
+- [x] ICMP
+- [x] ARP
+- [x] IPv4
+- [x] TCP
+- [x] UDP
+- [ ] DNS
+- [x] I have tested this program on Windows 10 Enterprise using WSL ver 2.
+
 -----------------------------------
 #       W I N D O W S
 -----------------------------------
