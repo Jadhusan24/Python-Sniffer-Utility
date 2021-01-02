@@ -12,7 +12,7 @@ Sniffer Using Python!
 - [x] UDP
 - [ ] DNS
 - [x] I have tested this program on Windows 10 Enterprise using WSL ver 2.
-![WinVer](./1.JPG)
+![WinVer](./Screenshots/1.JPG)
 -----------------------------------
 #       W I N D O W S
 -----------------------------------
