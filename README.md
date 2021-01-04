@@ -1,10 +1,10 @@
 # Wireshark-Lite
 Sniffer Using Python! 
 
-# Whats The Use?
+### Whats The Use?
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
     
-# USAGE 
+### USAGE 
 - [x] ICMP
 - [x] ARP
 - [x] IPv4
@@ -15,7 +15,7 @@ Sniffer Using Python!
 
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/pw.JPG)
 -----------------------------------
-#       W I N D O W S
+###       W I N D O W S
 -----------------------------------
 Excute this program using WSL
 - open WSL Terminal
@@ -24,7 +24,7 @@ Excute this program using WSL
 >python sniffer.py www.github.com [DomainName] <br/>
 >python sniffer.py 8.8.8.8 [IpAddr] <br/>
 -----------------------------------
-#         L I N U X
+###         L I N U X
 -----------------------------------
 - open terminal
 - navigate to file path
@@ -32,15 +32,15 @@ Excute this program using WSL
 >sudo python3 sniffer.py www.github.com [DomainName] <br/>
 >sudo python3 sniffer.py 8.8.8.8 [IpAddr] <br/>
 
-# REQUIRMENT
+### REQUIRMENT
 - Run using SUDO privilege
 - pip3 install -r requirements.txt
 - Run using Administration privilege
 - pip install -r requirements.txt
 
-## The OUTPUT of the PROGRAM
+### The OUTPUT of the PROGRAM
 
 ![Screenshot](./Output.JPG)
 
-## Demo
+### Demo
 
