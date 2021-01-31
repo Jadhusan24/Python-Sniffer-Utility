@@ -40,7 +40,7 @@ Excute this program using WSL
 
 ### The OUTPUT of the PROGRAM
         ICMP
-![Screenshot](./Output.JPG)
+![Screenshot](./Screenshots/Output.JPG)
 
 ### Demonstration 
 
