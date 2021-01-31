@@ -39,8 +39,14 @@ Excute this program using WSL
 - pip install -r requirements.txt
 
 ### The OUTPUT of the PROGRAM
-        ICMP
+ - ICMP
 ![Screenshot](./Screenshots/Output.JPG)
+
+ - UDP
+![Screenshot](./Screenshots/udp.jpg)
+
+ - ARP
+![Screenshot](./Screenshots/arp.jpg)
 
 ### Demonstration 
 
