@@ -10,7 +10,7 @@ Sniffer Using Python!
 - [x] IPv4
 - [x] TCP
 - [x] UDP
-- [ ] DNS
+- [ ] OTHER
 - [x] I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/pw.JPG)
