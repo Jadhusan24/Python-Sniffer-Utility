@@ -1,7 +1,7 @@
 # Wireshark-Lite
 Sniffer Using Python! 
 
-### [What is the Use?](https://en.wikipedia.org/wiki/Packet_analyzer)
+### [What is it About?](https://en.wikipedia.org/wiki/Packet_analyzer)
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
     
 ### USAGE 
