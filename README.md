@@ -5,12 +5,14 @@ Sniffer Using Python!
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
     
 ### USAGE 
-- [x] ICMP
+- [x] Ethernet
 - [x] ARP
+- [x] IPv6
 - [x] IPv4
 - [x] TCP
 - [x] UDP
-- [ ] OTHER
+- [x] ICMP
+- [ ] DNS
 - [x] I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/pw.JPG)
