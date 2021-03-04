@@ -1,4 +1,4 @@
-# Wireshark-Lite
+# Sniffer Tool
 Sniffer Using Python! 
 
 ### [What is it About?](https://en.wikipedia.org/wiki/Packet_analyzer)
