@@ -13,7 +13,8 @@ Sniffer Using Python!
 - [x] UDP
 - [x] ICMP
 - [ ] DNS
-- [x] I have tested this program on Windows 10 Enterprise using WSL ver 2.
+  
+##### I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
 ![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/pw.JPG)
 
