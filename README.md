@@ -41,7 +41,7 @@ Excute this program using WSL
 - Run using Administration privilege
 - pip install -r requirements.txt
 
-### OUTPU
+### OUTPUT
 
  - ICMP
  
