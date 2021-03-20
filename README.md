@@ -1,4 +1,4 @@
-# Sniffer Tool
+# Sniffer Utility
 Sniffer Using Python! 
 
 ### [What is it About?](https://en.wikipedia.org/wiki/Packet_analyzer)
