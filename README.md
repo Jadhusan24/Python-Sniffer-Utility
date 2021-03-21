@@ -18,7 +18,7 @@
   
 #### I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
-![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/pw.JPG)
+![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
 
 -----------------------------------
 ###       W I N D O W S
