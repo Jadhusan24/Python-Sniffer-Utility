@@ -1,7 +1,8 @@
 # Sniffer Utility
-Sniffer Using Python! 
+    This illustrates the use of TCP DUMB command
 
-### [What is it About?](https://en.wikipedia.org/wiki/Packet_analyzer)
+
+### [REFERENCE?](https://en.wikipedia.org/wiki/Packet_analyzer)
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
     
     
@@ -43,7 +44,7 @@ Excute this program using WSL
 - Run using Administration privilege
 - pip install -r requirements.txt
 
-### OUTPUT
+### RESULT
 
  - ICMP
  
