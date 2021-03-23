@@ -48,15 +48,28 @@ Excute this program using WSL
 
  - ICMP
  
-![Screenshot](./Screenshots/Output.JPG)
 
  - UDP
  
-![Screenshot](./Screenshots/udp.jpg)
 
  - ARP
  
-![Screenshot](./Screenshots/arp.jpg)
+ 
+ - Ethernet
+ 
+
+- IPv6
+
+
+- IPv4
+
+
+- TCP
+
+
+- UDP
+
+
 
 ### Demonstration 
 
