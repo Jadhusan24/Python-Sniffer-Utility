@@ -16,7 +16,7 @@
   
 #### I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
-![WinVer](./Screenshots/1.JPG) ![WinVer](./Screenshots/2.JPG)
+![WinVer](./Screenshots/win.JPG) ![WinVer](./Screenshots/wsl.JPG)
 
 -----------------------------------
 ###       W I N D O W S
@@ -44,29 +44,26 @@ Excute this program using WSL
 
 ### RESULT
 
- - ICMP
- 
+- Ethernet
+    ![WinVer](./Screenshots/1.JPG)
 
- - UDP
- 
+- ARP
+    ![WinVer](./Screenshots/2.JPG)
 
- - ARP
- 
- 
- - Ethernet
- 
-
-- IPv6
-
-
-- IPv4
-
+- ICMP
+    ![WinVer](./Screenshots/3.JPG)
+    
+- UDP
+    ![WinVer](./Screenshots/4.JPG)
 
 - TCP
+    ![WinVer](./Screenshots/5.JPG)
 
+- IPv4
+    ![WinVer](./Screenshots/6.JPG)
 
-- UDP
-
+- IPv6
+    ![WinVer](./Screenshots/7.JPG)
 
 ### Demonstration 
 
