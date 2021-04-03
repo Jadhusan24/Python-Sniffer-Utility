@@ -4,7 +4,7 @@
 ### [REFERENCE?](https://en.wikipedia.org/wiki/Packet_analyzer)
     Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
   
-[![Twitter](https://img.shields.io/badge/twitter-sneakerhax-38A1F3?logo=twitter)](https://twitter.com/sneakerhax)
+[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
 ### USAGE 
 - [x] Ethernet
