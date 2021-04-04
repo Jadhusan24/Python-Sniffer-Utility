@@ -40,9 +40,7 @@ Excute this program using WSL
 
 ### REQUIRMENT
 - Run using SUDO privilege
-- pip3 install -r requirements.txt
 - Run using Administration privilege
-- pip install -r requirements.txt
 
 ### RESULT
 
