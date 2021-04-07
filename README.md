@@ -38,11 +38,11 @@ Excute this program using WSL
 >sudo python3 sniffer.py www.github.com [DomainName] <br/>
 >sudo python3 sniffer.py 8.8.8.8 [IpAddr] <br/>
 
-### REQUIRMENT
+### _REQUIRMENT_
 - Run using SUDO privilege
 - Run using Administration privilege
 
-### RESULT
+### _RESULT_
 
 - Ethernet
     ![WinVer](./Screenshots/1.jpg)
