@@ -1,8 +1,8 @@
 # Sniffer Utility
-    This illustrates the use of TCP DUMB command
+   This illustrates the use of **TCPDUMB** command
 
 ### [REFERENCE?](https://en.wikipedia.org/wiki/Packet_analyzer)
-    Packet sniffer that can intercept and log traffic that passes over a computer network or part of a network.
+  Tcpdump is a data-network packet analyzer computer program that runs under a command line interface. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached
   
   
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) 
