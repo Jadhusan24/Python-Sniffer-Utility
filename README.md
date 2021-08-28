@@ -15,7 +15,6 @@
 - [x] TCP
 - [x] UDP
 - [x] ICMP
-- [ ] DNS
   
 #### I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
