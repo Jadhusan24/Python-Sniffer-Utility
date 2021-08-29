@@ -1,7 +1,7 @@
 # Sniffer Utility
    This illustrates the use of **TCPDUMB** command
 
-### [TCPDUMP](https://en.wikipedia.org/wiki/Packet_analyzer)
+### [TCPDUMP]
   Tcpdump is a data-network packet analyzer computer program that runs under a command line interface. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached
   
   
@@ -25,7 +25,7 @@ Excute this program using WSL
 - open WSL Terminal
 - navigate to  file path
 - type the following command
->python sniffer.py www.github.com  <br/>
+>python sniffer.py www.google.com  <br/>
 >python sniffer.py 8.8.8.8  <br/>
 -----------------------------------
 ###         L I N U X
@@ -33,7 +33,7 @@ Excute this program using WSL
 - open terminal
 - navigate to file path
 - type the following command
->sudo python3 sniffer.py www.github.com  <br/>
+>sudo python3 sniffer.py www.google.com  <br/>
 >sudo python3 sniffer.py 8.8.8.8  <br/>
 
 ### _REQUIRMENT_
