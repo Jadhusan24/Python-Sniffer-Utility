@@ -20,6 +20,9 @@
 
 ![WinVer](./Screenshots/win.jpg) ![WinVer](./Screenshots/wsl.jpg)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) 
+
+
 -----------------------------------
 ###       W I N D O W S
 -----------------------------------
@@ -62,6 +65,3 @@ Excute this program using WSL
 - UDP
     ![WinVer](./Screenshots/udp.jpg)
 
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) 
