@@ -6,6 +6,9 @@
   
 #### BOOK
    https://jadhusan-s.medium.com/monitor-your-internet-traffic-in-real-time-sniffer-utility-ed686a066bc4
+   
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) 
+
   
 ### _USAGE_
 - [x] Ethernet
@@ -19,8 +22,6 @@
 #### I have tested this program on Windows 10 Enterprise using WSL ver 2.
 
 ![WinVer](./Screenshots/win.jpg) ![WinVer](./Screenshots/wsl.jpg)
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/) 
 
 
 -----------------------------------
