@@ -2,8 +2,10 @@
    This illustrates the use of **TCPDUMB** command
 
 ### [TCPDUMP]
-  Tcpdump is a data-network packet analyzer computer program that runs under a command line interface. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached
+  Tcpdump is a data-network packet analyzer computer program that runs under a command line interface. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached.
   
+#### BOOK
+   https://jadhusan-s.medium.com/monitor-your-internet-traffic-in-real-time-sniffer-utility-ed686a066bc4
   
 ### _USAGE_
 - [x] Ethernet
